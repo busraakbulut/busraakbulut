@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-Hi 👋 My name is Büşra Akbulut
+Hi 👋 This is Büşra✨
 ==============================
 
 Junior Frontend Developer
