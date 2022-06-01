@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 Hi 👋 This is Büşra✨
 ==============================
 
-Junior Frontend Developer
+Junior Frontend Developer To Be
 -------------------------
 
 * 🌍  I'm based in Türkiye
