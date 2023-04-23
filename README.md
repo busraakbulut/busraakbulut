@@ -1,29 +1,14 @@
 
 
-<!--
-**busraakbulut/busraakbulut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 
 Hi 👋 This is Büşra✨
 ==============================
 
-Junior Frontend Developer To Be
+Junior Frontend Developer
 -------------------------
 
 * 🌍  I'm based in Türkiye
-* ✉️  You can contact me at [busraakbulutt45@gmail.com](mailto:busraakbulutt45@gmail.com)
+* ✉️  You can contact me at [busraakbulut.business@gmail.com](mailto:busraakbulut.business@gmail.com)
 * 🧠  I'm learning HTML/CSS/TS/JS/ANGULAR
 
 ### Skills
