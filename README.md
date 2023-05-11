@@ -8,7 +8,7 @@ Junior Frontend Developer
 -------------------------
 
 * 🌍  I'm based in Türkiye
-* ✉️  You can contact me at [busraakbulut.business@gmail.com](mailto:busraakbulut.business@gmail.com)
+* ✉️  You can contact me at [busra.akbulut.business@gmail.com](mailto:busra.akbulut.business@gmail.com)
 * 🧠  I'm currently developing with React-NextJs
 
 ### Skills
