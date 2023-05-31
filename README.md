@@ -4,7 +4,7 @@
 Hi 👋 This is Büşra✨
 ==============================
 
-Junior Frontend Developer
+Junior Developer
 -------------------------
 
 * 🌍  I'm based in Türkiye
