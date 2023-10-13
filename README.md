@@ -4,7 +4,7 @@
 Hi 👋 This is Büşra✨
 ==============================
 
-Junior Developer
+Computer Engineer
 -------------------------
 
 * 🌍  I'm based in Türkiye
